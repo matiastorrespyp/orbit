@@ -1,0 +1,32 @@
+{
+  "nombre": "Peña Flor",
+  "comuna": "Peñaflor",
+  "resumen": [
+    "Se mantiene estabilidad operativa en la jornada anterior.",
+    "Las consultas comerciales aumentaron en redes sociales durante la tarde.",
+    "No se reportan incidentes críticos de continuidad."
+  ],
+  "agenda": [
+    "08:30 - Revisión de ventas y captación del día anterior.",
+    "10:00 - Coordinación con operaciones para abastecimiento.",
+    "15:00 - Seguimiento de clientes con oportunidades abiertas."
+  ],
+  "indicadores": [
+    "Ventas diarias: 24 operaciones cerradas.",
+    "Ticket promedio: CLP 142.000.",
+    "Tiempo medio de respuesta digital: 12 minutos."
+  ],
+  "alertas": [
+    "Stock bajo en dos categorías de alta rotación.",
+    "Aumento de consultas fuera del horario habitual."
+  ],
+  "oportunidades": [
+    "Campaña segmentada para clientes recurrentes.",
+    "Activación de pauta local para reforzar presencia comunal."
+  ],
+  "acciones": [
+    "Actualizar tablero con KPI antes de las 09:00.",
+    "Definir mensaje comercial para canal WhatsApp.",
+    "Confirmar disponibilidad de productos críticos antes del mediodía."
+  ]
+}
